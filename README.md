@@ -1,4 +1,4 @@
-# Deep Learning-based Classification of Gunshot Entrance vs. Exit Wounds
+# ResNet50-based Classification of Gunshot Entrance vs. Exit Wounds
 
 ## 🩺 Project Overview
 This repository contains a specialized deep learning pipeline designed to differentiate between **Gunshot Entrance and Exit Wounds**. Using transfer learning with the **ResNet50** architecture, this project serves as an AI-driven decision support tool to enhance objectivity and documentation in forensic pathological examinations.
