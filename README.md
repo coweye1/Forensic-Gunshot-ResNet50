@@ -34,7 +34,7 @@ The model achieved a **92.7% validation accuracy** and a **90.1% test accuracy**
 
 ### 3. Model Interpretability (Grad-CAM)
 ![Grad-CAM](grad_cam.png)
-*Visual validation confirms that the AI focuses on wound margins and perilesional skin changes.*
+* **Clinical Validation:** Grad-CAM visualization demonstrates that the model focuses on the **wound margin** and **surrounding tissue morphology** when predicting entrance vs. exit wounds. This aligns with standard forensic diagnostic criteria, confirming that the AI identifies relevant pathological features such as abrasion rings rather than relying on background noise.
 
 ## 🧑‍⚕️ About the Author
 **Hee Jae Ryu, MD**
