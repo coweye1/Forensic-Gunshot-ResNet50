@@ -47,8 +47,8 @@ I've included an interactive tool at the end of the notebook.
 Just copy the code from the last Markdown cell and run it to analyze your own gunshot images!
 
 <p align="center">
-  <img src="./Interactive-entrance.jpg" width="48%" />
-  <img src="./Interactive-exit.jpg" width="48%" />
+  <img src="./Interactive-entrance.png" width="48%" />
+  <img src="./Interactive-exit.png" width="48%" />
 </p>
 
 > **Reference:** [A machine learning-based approach for gunshot wound identification and classification](https://doi.org/10.1016/j.jpi.2023.100346), *Journal of Pathology Informatics (2023)*.  
