@@ -46,7 +46,7 @@ The model achieved robust performance on the unseen test set, demonstrating its 
 I've included an interactive tool at the end of the notebook. 
 Just copy the code from the last Markdown cell and run it to analyze your own gunshot images!
 
-![Interactive Analysis](./Interactive.jpg)
+![Interactive Analysis](./Interactive.png)
 > **Reference:** [A machine learning-based approach for gunshot wound identification and classification](https://doi.org/10.1016/j.jpi.2023.100346), *Journal of Pathology Informatics (2023)*.  
 > *Note: This project is inspired by and builds upon the methodologies discussed in the above publication.*
 
