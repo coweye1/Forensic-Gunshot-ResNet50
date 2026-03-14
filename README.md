@@ -52,7 +52,7 @@ Just copy the code from the last Markdown cell and run it to analyze your own gu
 ### B. Exit Wound Analysis Example
 ![Interactive Exit](./Interactive-exit.png)
 
-> **Image Reference:** [Artificial intelligence for human gunshot wound classification](https://doi.org/10.1016/j.jpi.2023.100361), *Journal of Pathology Informatics, Volume 14, 2023, 100361*.  
+> **Reference:** [Artificial intelligence for human gunshot wound classification](https://doi.org/10.1016/j.jpi.2023.100361), *Journal of Pathology Informatics, Volume 15, 2024, 100361*.  
 > *Note: This project is inspired by the methodologies discussed in the above publication to enhance objective forensic diagnostics.*
 
 ---
